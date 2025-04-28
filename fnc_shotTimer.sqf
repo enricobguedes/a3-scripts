@@ -1,5 +1,5 @@
 
-// Function to cound and display shots fired
+// Function to count and display shots fired
 // Used for either training or competition 
 // Author: Enrico - 11/2024
 
